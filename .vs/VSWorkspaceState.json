@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\reducers"
   ],
+  "SelectedNode": "\\src\\reducers\\index.js",
   "PreviewInSolutionExplorer": false
 }
